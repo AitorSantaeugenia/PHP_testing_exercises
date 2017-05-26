@@ -1,2 +1,2 @@
-# PHP_testing_exercises
-PHP_testing_exercises
+# PHP testing exercises
+PHP testing exercises - 33 weird exercises for a beginners
